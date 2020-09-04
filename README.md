@@ -9,4 +9,6 @@ Repository contains files supporting Udacity Data wrangling project with sql abo
   PROJECT WRANGLE OPEN STREET MAP DATA.pdf : pdf file answering project questions ;  
   
   SmallAnnecy.osm : a reduced size osm file of Annecy area, on which I made first investigations ;  
+  
+  Website list : list of main references used for project
 
