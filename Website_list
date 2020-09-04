@@ -1,0 +1,28 @@
+    **List of websites used for Project wrangle Open Street Map Annecy** 
+    
+    *General*
+
+Map feature in openstreetmap https://wiki.openstreetmap.org/wiki/Map_Features (list of nodes and tags to use)
+
+Second main user of OSM in Annecy area has hit headlines (:-)https://www.salzburgresearch.at/blog/alpine-ski-world-championship-meets-openstreetmap-who-are-the-mapping-champions/
+
+    *Solutions to some python coding problems*
+
+VERBOSE and Re Module https://www.geeksforgeeks.org/verbose-in-python-regex/
+
+csv write and headers https://discuss.codecademy.com/t/how-does-writeheader-know-the-fields-to-use/463772
+
+how to get nice display of pandas dataframe (correct width) https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe
+
+tool for count of nodes, ways and relations https://gis.stackexchange.com/questions/281788/openstreetmap-determining-number-of-nodes-ways-and-relations-in-a-pbf-file
+
+fo export from osm file to csv file : https://mygeodata.cloud/converter/osm-to-csv#:~:text=Upload%20your%20OSM%20data%20(widely,will%20be%20exported%20as%20well.
+
+    Modify database in sql
+https://www.w3schools.com/sql/sql_update.asp
+
+    *Various Github references for OSM Wrangling (not always fully trustworthy but good ideas for project debugging)*
+https://github.com/wblakecannon/udacity-dand/tree/master/4-Data-Wrangling
+https://hadrien-lcrx.github.io/notebooks/Boston_Data_Wrangling.html
+http://napitupulu-jon.appspot.com/posts/wrangling-openstreetmap.html
+https://github.com/GloSanc/Wrangle_OSM 
