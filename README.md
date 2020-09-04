@@ -1,14 +1,17 @@
 # Udacity_Project_2_Data_wrangling_with_sql
 
-Repository contains files supporting Udacity Data wrangling project with sql about Annecy area, in France :
+Repository contains six files supporting Udacity Data wrangling project with sql about Annecy area, in France :
 
-  Annecy.jpg : a picture of Annecy town ;  
+  Annecy.jpg : a picture of Annecy town (more to see in Pdf file) ;  
   
-  Annecy_osm_wrangling.ipynb : all python queries necessary to answer project quesions ;  
+  Annecy_link_to_osm : link to open street map and reason for chosing this area
+  
+  Annecy_osm_wrangling.ipynb : all python queries necessary to answer project questions ;  
   
   PROJECT WRANGLE OPEN STREET MAP DATA.pdf : pdf file answering project questions ;  
   
-  SmallAnnecy.osm : a reduced size osm file of Annecy area, on which I made first investigations ;  
+  SmallAnnecy.osm : a reduced size osm file of Annecy area, on which we made first investigations ;  
   
   Website list : list of main references used for project
+  
 
