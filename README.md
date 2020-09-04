@@ -1,6 +1,6 @@
 # Udacity_Project_2_Data_wrangling_with_sql
 
-Repository contains six files supporting Udacity Data wrangling project with sql about Annecy area, in France :
+Repository contains seven files supporting Udacity Data wrangling project with sql about Annecy area, in France :
 
   Annecy.jpg : a picture of Annecy town (more to see in Pdf file) ;  
   
