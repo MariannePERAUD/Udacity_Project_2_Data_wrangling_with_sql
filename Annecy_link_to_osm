@@ -1,0 +1,11 @@
+Text file with the link to the map position we wrangled, a short description of the area and a reason for our choice
+
+In order to acquire Annecy dataset, we connected to address below :
+https://www.openstreetmap.org/export#map=12/45.8662/6.0912
+
+We chose Annecy area : Annecy is a town near Switzerland border in the Alps. 
+Part of my family leaves there. It’s a beautiful area, with a lake near ski resorts and full of history.
+
+Export to Osm file was made via Overpass API tool
+
+
