@@ -14,4 +14,6 @@ Repository contains seven files supporting Udacity Data wrangling project with s
   
   Website list : list of main references used for project
   
+  Annecy_osm_wrangling_part1.py : py file part I : assessing + checking + csv files
+  
 
